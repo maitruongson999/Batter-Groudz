@@ -1,0 +1,1 @@
+Batter Groudz - lightweight English PWA game. Host this folder on HTTPS, then enter the URL in PWABuilder. The web app does not declare runFullTrust.
